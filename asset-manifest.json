@@ -1,22 +1,31 @@
 {
   "files": {
-    "main.css": "/my-business-card/static/css/main.b13782ec.chunk.css",
-    "main.js": "/my-business-card/static/js/main.63961c3a.chunk.js",
-    "main.js.map": "/my-business-card/static/js/main.63961c3a.chunk.js.map",
+    "main.css": "/my-business-card/static/css/main.63ac4ba6.chunk.css",
+    "main.js": "/my-business-card/static/js/main.4df33fbc.chunk.js",
+    "main.js.map": "/my-business-card/static/js/main.4df33fbc.chunk.js.map",
     "runtime-main.js": "/my-business-card/static/js/runtime-main.6dddcfc8.js",
     "runtime-main.js.map": "/my-business-card/static/js/runtime-main.6dddcfc8.js.map",
-    "static/js/2.180d86fb.chunk.js": "/my-business-card/static/js/2.180d86fb.chunk.js",
-    "static/js/2.180d86fb.chunk.js.map": "/my-business-card/static/js/2.180d86fb.chunk.js.map",
+    "static/js/2.6307e46e.chunk.js": "/my-business-card/static/js/2.6307e46e.chunk.js",
+    "static/js/2.6307e46e.chunk.js.map": "/my-business-card/static/js/2.6307e46e.chunk.js.map",
     "index.html": "/my-business-card/index.html",
-    "precache-manifest.391ab44d0c3732ab79f9c5107cee8930.js": "/my-business-card/precache-manifest.391ab44d0c3732ab79f9c5107cee8930.js",
+    "precache-manifest.b62c1b0dbb7faf4e6a00f71da16cde28.js": "/my-business-card/precache-manifest.b62c1b0dbb7faf4e6a00f71da16cde28.js",
     "service-worker.js": "/my-business-card/service-worker.js",
-    "static/css/main.b13782ec.chunk.css.map": "/my-business-card/static/css/main.b13782ec.chunk.css.map",
-    "static/js/2.180d86fb.chunk.js.LICENSE.txt": "/my-business-card/static/js/2.180d86fb.chunk.js.LICENSE.txt"
+    "static/css/main.63ac4ba6.chunk.css.map": "/my-business-card/static/css/main.63ac4ba6.chunk.css.map",
+    "static/js/2.6307e46e.chunk.js.LICENSE.txt": "/my-business-card/static/js/2.6307e46e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/my-business-card/static/media/ITCAvantGardeStdXLt.d682bd66.woff",
+    "static/media/logo1.png": "/my-business-card/static/media/logo1.b9e013eb.png",
+    "static/media/App.css": "/my-business-card/static/media/logo4.08b5fb76.png",
+    "static/media/logo5.png": "/my-business-card/static/media/logo5.f290cfdc.png",
+    "static/media/logo6.png": "/my-business-card/static/media/logo6.34b70dba.png",
+    "static/media/logo7.png": "/my-business-card/static/media/logo7.1b6e4bfc.png",
+    "static/media/logo9.png": "/my-business-card/static/media/logo9.48bc73f0.png",
+    "static/media/marijanalogo.png": "/my-business-card/static/media/marijanalogo.762c80dd.png",
+    "static/media/profileimage.jpg": "/my-business-card/static/media/profileimage.3f61c6f6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6dddcfc8.js",
-    "static/js/2.180d86fb.chunk.js",
-    "static/css/main.b13782ec.chunk.css",
-    "static/js/main.63961c3a.chunk.js"
+    "static/js/2.6307e46e.chunk.js",
+    "static/css/main.63ac4ba6.chunk.css",
+    "static/js/main.4df33fbc.chunk.js"
   ]
 }
