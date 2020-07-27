@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-business-card/static/css/main.07f6376f.chunk.css",
+    "main.css": "/my-business-card/static/css/main.8f7ad70d.chunk.css",
     "main.js": "/my-business-card/static/js/main.f011d425.chunk.js",
     "main.js.map": "/my-business-card/static/js/main.f011d425.chunk.js.map",
     "runtime-main.js": "/my-business-card/static/js/runtime-main.6dddcfc8.js",
@@ -8,9 +8,9 @@
     "static/js/2.da777b66.chunk.js": "/my-business-card/static/js/2.da777b66.chunk.js",
     "static/js/2.da777b66.chunk.js.map": "/my-business-card/static/js/2.da777b66.chunk.js.map",
     "index.html": "/my-business-card/index.html",
-    "precache-manifest.284dbe616cce24350152ef3db9eddf11.js": "/my-business-card/precache-manifest.284dbe616cce24350152ef3db9eddf11.js",
+    "precache-manifest.07a5d571ef5a5337a874c07f1954e118.js": "/my-business-card/precache-manifest.07a5d571ef5a5337a874c07f1954e118.js",
     "service-worker.js": "/my-business-card/service-worker.js",
-    "static/css/main.07f6376f.chunk.css.map": "/my-business-card/static/css/main.07f6376f.chunk.css.map",
+    "static/css/main.8f7ad70d.chunk.css.map": "/my-business-card/static/css/main.8f7ad70d.chunk.css.map",
     "static/js/2.da777b66.chunk.js.LICENSE.txt": "/my-business-card/static/js/2.da777b66.chunk.js.LICENSE.txt",
     "static/media/index.css": "/my-business-card/static/media/ITCAvantGardeStdXLt.d682bd66.woff",
     "static/media/logo1.png": "/my-business-card/static/media/logo1.b9e013eb.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.6dddcfc8.js",
     "static/js/2.da777b66.chunk.js",
-    "static/css/main.07f6376f.chunk.css",
+    "static/css/main.8f7ad70d.chunk.css",
     "static/js/main.f011d425.chunk.js"
   ]
 }
