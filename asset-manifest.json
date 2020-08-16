@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-business-card/static/css/main.8f7ad70d.chunk.css",
-    "main.js": "/my-business-card/static/js/main.f011d425.chunk.js",
-    "main.js.map": "/my-business-card/static/js/main.f011d425.chunk.js.map",
+    "main.js": "/my-business-card/static/js/main.e0ebe8e7.chunk.js",
+    "main.js.map": "/my-business-card/static/js/main.e0ebe8e7.chunk.js.map",
     "runtime-main.js": "/my-business-card/static/js/runtime-main.6dddcfc8.js",
     "runtime-main.js.map": "/my-business-card/static/js/runtime-main.6dddcfc8.js.map",
     "static/js/2.da777b66.chunk.js": "/my-business-card/static/js/2.da777b66.chunk.js",
     "static/js/2.da777b66.chunk.js.map": "/my-business-card/static/js/2.da777b66.chunk.js.map",
     "index.html": "/my-business-card/index.html",
-    "precache-manifest.07a5d571ef5a5337a874c07f1954e118.js": "/my-business-card/precache-manifest.07a5d571ef5a5337a874c07f1954e118.js",
+    "precache-manifest.e208e6a059257e92a3b6391e83802e53.js": "/my-business-card/precache-manifest.e208e6a059257e92a3b6391e83802e53.js",
     "service-worker.js": "/my-business-card/service-worker.js",
     "static/css/main.8f7ad70d.chunk.css.map": "/my-business-card/static/css/main.8f7ad70d.chunk.css.map",
     "static/js/2.da777b66.chunk.js.LICENSE.txt": "/my-business-card/static/js/2.da777b66.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.6dddcfc8.js",
     "static/js/2.da777b66.chunk.js",
     "static/css/main.8f7ad70d.chunk.css",
-    "static/js/main.f011d425.chunk.js"
+    "static/js/main.e0ebe8e7.chunk.js"
   ]
 }
